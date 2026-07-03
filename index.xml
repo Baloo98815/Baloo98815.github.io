@@ -10,19 +10,19 @@
     <link>https://quartz.jzhao.xyz/tags/</link>
     <guid>https://quartz.jzhao.xyz/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 03 Jul 2026 15:12:52 GMT</pubDate>
+    <pubDate>Fri, 03 Jul 2026 15:24:14 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ JDR tmtc. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 15:23:57 GMT</pubDate>
   </item><item>
     <title>process quartz</title>
     <link>https://quartz.jzhao.xyz/process-quartz</link>
     <guid>https://quartz.jzhao.xyz/process-quartz</guid>
     <description><![CDATA[ Oui, c’est bien l’idée : tu travailles dans Obsidian sur ton dossier ~/Documents/JDR, Quartz lit ce contenu via le lien symbolique content, puis la commande de build génère le site statique dans le dossier de sortie, qui est public par défaut. ]]></description>
     <pubDate>Fri, 03 Jul 2026 14:25:12 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Modificaiton. ]]></description>
-    <pubDate>Fri, 03 Jul 2026 14:17:19 GMT</pubDate>
   </item><item>
     <title>Bienvenue</title>
     <link>https://quartz.jzhao.xyz/bienvenue</link>
