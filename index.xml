@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://quartz.jzhao.xyz/tags/</link>
+    <guid>https://quartz.jzhao.xyz/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 03 Jul 2026 13:17:39 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ tes. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 13:13:24 GMT</pubDate>
+  </item><item>
+    <title>Bienvenue</title>
+    <link>https://quartz.jzhao.xyz/bienvenue</link>
+    <guid>https://quartz.jzhao.xyz/bienvenue</guid>
+    <description><![CDATA[ Voici votre nouveau coffre. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:43:50 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
